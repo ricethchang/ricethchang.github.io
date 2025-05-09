@@ -21,10 +21,10 @@ author: Dr Rice (Tao-Ho Chang)
 
 navbar-links:
   Members: "aboutme"
-  Research: ""
-  Protocols: ""
-  Digest: ""
-  PMS_app: "PMS screening"
+  Research: "pub_brief"
+  Protocols: "protocols"
+  Digest: "sci_digest"
+  Dev_app: "app"
 ################
 # --- Logo --- #
 ################
@@ -55,9 +55,10 @@ social-network-links:
   Researchgate: https://www.researchgate.net/profile/Tao-Ho-Chang
   google-scholar: MPXhN3sAAAAJ
   ORCID: 0000-0003-2107-6939
+  linkedin: taohochang
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
-#  linkedin: daattali
+
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
