@@ -24,41 +24,28 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Program in Plant Health Care, Academy of Circular Economy, National Chung Hsing University",
+      "position": "Assistant Professor",
+      "url": "https://ricethchang.github.io",
+      "startDate": "2022-07-30",
+      "endDate": "present",
+      "summary": "summary",
+      "highlights": ["Arabidopsis thaliana","Fusarium oxysporum","Gene editing","Molecular biology"]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of Edinburgh",
+      "location": "Edinburgh, Scotland, UK",
+      "url": "https://www.ed.ac.uk/",
+      "area": "Molecular Plant Science",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
+      "startDate": "2017-07-07",
+      "endDate": "2013-01-01",
       "courses": ["Theory of Relativity"]
     }
   ],
-  "awards": [
+ "awards": [
     {
       "title": "Nobel Prize in Physics",
       "date": "1921-11-01",
