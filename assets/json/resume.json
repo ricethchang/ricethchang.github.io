@@ -45,7 +45,7 @@
       "courses": ["Theory of Relativity"]
     }
   ],
-# "awards": [
+/* "awards": [
     {
       "title": "Nobel Prize in Physics",
       "date": "1921-11-01",
@@ -54,7 +54,8 @@
       "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
   ],
- # "certificates": [
+  /*
+  /*"certificates": [
     {
       "name": "Machine Learning",
       "date": "2018-01-01",
@@ -98,7 +99,8 @@
       "icon": "fa-solid fa-clipboard-check"
     }
   ],
-  "publications": [
+  */
+  /*"publications": [
     {
       "name": "Zur Elektrody/namik bewegter Körper",
       "publisher": "Annalen der Physik",
@@ -121,7 +123,8 @@
       "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
     }
   ],
- # "skills": [
+  */
+ /* "skills": [
     {
       "name": "Physics",
       "level": "Master",
@@ -136,9 +139,10 @@
       ]
     }
   ],
- # "languages": [
+  */
+  "languages": [
     {
-      "language": "German",
+      "language": "Mandarin",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -169,7 +173,7 @@
       ]
     }
   ],
-#  "references": [
+/*"references": [
     {
       "name": "Professor John Doe",
       "icon": "fa-solid fa-laptop",
@@ -181,6 +185,7 @@
       "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
   ],
+  */
   "projects": [
     {
       "name": "Novel materials for plant resilience: applying the gene-editing technique for developing biomaterials for stresses tolerance and assessment platform",
