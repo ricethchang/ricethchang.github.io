@@ -194,7 +194,7 @@
       "highlights": ["Gene editing", "Fusarium oxysporum", "Cross protection", "Virulence factors", "Plant stress resilience"],
       "startDate": "2023-04-01",
       "endDate": "2024-10-31",
-      #"url":
+      "url":[]
     },
     {
       "name": "Uncovering the relationship between beneficial microorganisms in redox homeostasis of plant roots and plant resilience improvement",
@@ -203,7 +203,7 @@
       "highlights": ["Plant resilience", "Redox homeostasis", "Abiotic stresses"],
       "startDate": "2024-08-01",
       "endDate": "2025-07-31",
-      #"url":
+      "url":[]
     },
     {
       "name": "Leveraging Arabidopsis resilience genes to develop a screening platform for microbes that enhanced plant stress tolerance",
@@ -212,7 +212,7 @@
       "highlights": ["Arabidopsis thaliana", "Resilience genes", "Beneficial microbes"],
       "startDate": "2022-01-01",
       "endDate": "2025-11-30",
-      #"url":
+      "url":[]
     }
   ]
 }
