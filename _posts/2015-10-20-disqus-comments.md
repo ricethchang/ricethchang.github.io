@@ -6,6 +6,7 @@ description: an example of a blog post with disqus comments
 tags: comments
 categories: sample-posts external-services
 disqus_comments: true
+published: false
 related_posts: false
 ---
 
