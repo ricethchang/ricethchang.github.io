@@ -454,11 +454,18 @@ ninja.data = [{
           window.open("mailto:%74%68%63%68%61%6E%67@%6E%63%68%75.%65%64%75.%74%77", "_blank");
         },
       },{
-        id: 'social-gitlab',
-        title: 'GitLab',
+        id: 'social-github',
+        title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://gitlab.com/ricethchang", "_blank");
+          window.open("https://github.com/ricethchang", "_blank");
+        },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0000-0003-2107-6939", "_blank");
         },
       },{
         id: 'social-researchgate',
