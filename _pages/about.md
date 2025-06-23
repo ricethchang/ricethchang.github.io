@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Program in Plant Health Care, Academy of Circular Economy, National Chung Hsing University</a>
 
 profile:
   align: right
