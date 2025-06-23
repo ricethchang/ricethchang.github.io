@@ -8,6 +8,7 @@ profile:
   align: right
   image: lab_fig1.png
   image_circular: false # crops the image to make it circular
+  width: 50% #makes image take up 50% of the width
   more_info: >
     <p>No. 15, Guangming Rd., Nantou City </p>
     <p>Nantou County, 540, Taiwan</p>
@@ -25,27 +26,24 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-## Plant Stress Resilience Lab: Uncovering the puzzles of Plant-Microbe-Environment Networks
-The newly astablished Plant Stress Resilience Lab at Academy of Circular Economy, National Chung Hsing University represents the next solution in sustainable and circular agriculture, We're tackling the molecular complexity of plant-microbe-environment interactions with innovation.
+## Plant Stress Resilience Lab 🌱🔬
+**Uncovering the puzzles of Plant-Microbe-Environment Networks**
+
+Our newly established lab tackles the molecular complexity of plant-microbe-environment interactions to develop sustainable agricultural solutions.
 
 ### 🧬 Principal Investigator
-Led by Dr. Tao-Ho Chang (aka Dr. Rice), our team applys molecular genetics and microbiology to understand the mechanistic basis of plant stress adaptation.
+**Dr. Tao-Ho Chang (aka Dr. Rice)** - Molecular genetics and microbiology expert specializing in plant stress adaptation mechanisms.
 
-### 🔬 Three Core Research Pillars
-**Pillar 1: High-Throughput Phenotyping & Biomarker Discovery**  
-Developing *Arabidopsis*-based screening platforms that integrate transcriptomics and physiological assays to identify predictive biomarkers for beneficial plant-microbe interactions.
+### 🔬 Three Core Research Areas
+**1. Biomarker Discovery Platforms** - *Arabidopsis*-based screening using transcriptomics to predict beneficial plant-microbe interactions.
 
-**Pillar 2: Precision Genome Engineering of Fungal Biocontrol**  
-Leveraging CRISPR-Cas systems and synthetic biology approaches to reprogram the pathogenic arsenal of *Fusarium oxysporum* into protective mechanisms—essentially converting pathogenicity factors into plant defense enhancers.
+**2. Fungal Biocontrol Engineering** - CRISPR-mediated reprogramming of *Fusarium oxysporum* from pathogen to plant protector.
 
-**Pillar 3: Redox Network Analysis in Tripartite Interactions**  
-Dissecting the spatiotemporal dynamics of reactive oxygen species (ROS) signaling cascades and antioxidant networks that mediate plant-microbe communication under abiotic stress conditions.
+**3. ROS Network Analysis** - Decoding reactive oxygen species signaling in plant-microbe-stress interactions.
 
-### ⚗️ Methodological Arsenal
-Our lab employs cutting-edge technologies including WGCNA (Weighted Gene Co-expression Network Analysis), transcriptomics, CRISPR-Cas systems and real-time ROS imagings for pattern recognition in complex biological datasets.
+### ⚗️ Key Research Tools
+Transcriptomics • CRISPR-Cas Systems • Real-time ROS Imaging • *Arabidopsis thaliana* • *Fusarium oxysporum*
 
-**We're building the molecular foundation for next-generation stress-resilient crops through evidence-based biotechnological innovation.** 🌾⚡
+---
 
-*Because understanding plant stress at the molecular level is the key to feeding 10 billion people sustainably.*
-
-
+**Building molecular foundations for stress-resilient crops to sustainably feed 10 billion people.** 🌾⚡
