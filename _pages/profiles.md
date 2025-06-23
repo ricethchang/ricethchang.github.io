@@ -27,8 +27,8 @@ profiles:
     content: about_pi.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p>Lab PI</p>
-      <p>Email: thchang@nchu.edu.tw</p>
+      <p>Dr Tao-Ho Chang (Dr Rice)</p>
+      <p>email: thchang@nchu.edu.tw</p>
   - category: "current"
     align: left
     image: prof_pic.jpg
