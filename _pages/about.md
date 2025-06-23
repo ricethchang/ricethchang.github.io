@@ -39,7 +39,7 @@ Our newly established lab tackles the molecular complexity of plant-microbe-envi
 
 **2. Fungal Biocontrol Engineering** - CRISPR-mediated reprogramming of *Fusarium oxysporum* from pathogen to plant protector.
 
-**3. ROS Network Analysis** - Decoding reactive oxygen species signaling in plant-microbe-stress interactions.
+**3. Redox Network Analysis** - Decoding reactive oxygen/nitrogen species signaling in plant-microbe-stress interactions.
 
 ### ⚗️ Key Research Tools
 Transcriptomics • CRISPR-Cas Systems • Real-time ROS Imaging • *Arabidopsis thaliana* • *Fusarium oxysporum*
