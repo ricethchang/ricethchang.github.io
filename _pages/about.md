@@ -8,7 +8,7 @@ profile:
   align: right
   image: lab_fig1.png
   image_circular: false # crops the image to make it circular
-  width: 50% #makes image take up 50% of the width
+  width: 60% #makes image take up 60% of the width
   more_info: >
     <p>No. 15, Guangming Rd., Nantou City </p>
     <p>Nantou County, 540, Taiwan</p>
@@ -26,8 +26,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-## Plant Stress Resilience Lab 🌱🔬
-**Uncovering the puzzles of Plant-Microbe-Environment Networks**
+**Uncovering the puzzles of Plant-Microbe-Environment Networks 🌱🔬**
 
 Our newly established lab tackles the molecular complexity of plant-microbe-environment interactions to develop sustainable agricultural solutions.
 
