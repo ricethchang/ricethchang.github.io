@@ -5,7 +5,7 @@ title: people
 description: members of the lab or group
 nav: true
 nav_order: 7
-display categories: [PI, Current member, Alumni]
+display categories: [PI, Current members, Alumni]
 
 # categorise people in my lab
 categories:
@@ -24,7 +24,7 @@ profiles:
   - category: "pi"
     align: right
     image: prof_pic.jpg
-    content: about_einstein.md
+    content: about_pi.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>Lab PI</p>
