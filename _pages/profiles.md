@@ -5,6 +5,8 @@ title: people
 description: members of the lab or group
 nav: true
 nav_order: 7
+display categories: [PI, Current member, Alumni]
+
 # categorise people in my lab
 categories:
  - name: "Principal Investigator"
