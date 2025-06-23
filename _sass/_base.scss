@@ -1417,3 +1417,102 @@ figure.cover {
     color: #23212d !important;
   }
 }
+// People page categories
+.category-section {
+  margin-bottom: 4rem;
+  padding: 2rem;
+  background-color: var(--global-card-bg-color);
+  border: 1px solid var(--global-divider-color);
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.category-header {
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+  border-bottom: 2px solid var(--global-theme-color);
+}
+
+.category-title {
+  color: var(--global-theme-color);
+  font-size: 2rem;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+.category-description {
+  color: var(--global-text-color-light);
+  font-style: italic;
+  margin-bottom: 0;
+  font-size: 1.1rem;
+}
+
+.category-content {
+  .profile-item {
+    margin-bottom: 2rem;
+    
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+}
+
+.category-separator {
+  margin: 3rem 0;
+  text-align: center;
+  
+  .category-divider {
+    border: none;
+    height: 3px;
+    background: linear-gradient(90deg, 
+      transparent 0%, 
+      var(--global-theme-color) 20%, 
+      var(--global-theme-color) 80%, 
+      transparent 100%);
+    margin: 0;
+  }
+}
+
+.profile-divider {
+  border: none;
+  height: 1px;
+  background-color: var(--global-divider-color);
+  margin: 1.5rem 0;
+}
+
+// Profile styling for people page
+.profile {
+  margin-bottom: 2rem;
+  
+  .more-info {
+    margin-top: 1rem;
+    font-size: 0.9rem;
+    color: var(--global-text-color-light);
+    
+    p {
+      margin-bottom: 0.5rem;
+    }
+  }
+}
+
+// reaction design
+@media (max-width: 768px) {
+  .category-section {
+    padding: 1rem;
+    margin-bottom: 2rem;
+  }
+  
+  .category-title {
+    font-size: 1.5rem;
+  }
+  
+  .category-separator {
+    margin: 2rem 0;
+  }
+}
