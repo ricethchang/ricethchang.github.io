@@ -8,7 +8,6 @@ profile:
   align: right
   image: lab_fig1.png
   image_circular: false # crops the image to make it circular
-  width: 60% #makes image take up 60% of the width
   more_info: >
     <p>No. 15, Guangming Rd.</p>
     <p>Nantou City</p>
