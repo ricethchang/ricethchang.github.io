@@ -27,7 +27,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-**Uncovering the puzzles of Plant-Microbe-Environment Networks 🌱🔬**
+##Uncovering the puzzles of Plant-Microbe-Environment Networks 🌱🔬##
 
 Our newly established lab tackles the molecular complexity of plant-microbe-environment interactions to develop sustainable agricultural solutions.
 
