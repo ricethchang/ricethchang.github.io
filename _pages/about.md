@@ -10,7 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   width: 60% #makes image take up 60% of the width
   more_info: >
-    <p>No. 15, Guangming Rd., Nantou City </p>
+    <p>No. 15, Guangming Rd.</p>
+    <p>Nantou City</p>
     <p>Nantou County, 540, Taiwan</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
