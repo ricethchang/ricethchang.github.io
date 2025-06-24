@@ -5,7 +5,7 @@ title: people
 description: members of the lab or group
 nav: true
 nav_order: 7
-display categories: [PI, Current members, Alumni]
+display categories: [pi, current, alumni]
 
 # categorise people in my lab
 categories:
@@ -13,7 +13,7 @@ categories:
    id: "pi"
    description: "Lab principle investigator"
  - name: "Current Students"
-   id: "Current"
+   id: "current"
    description: "Lab students atm"
  - name: "Alumni"
    id: "alumni"
