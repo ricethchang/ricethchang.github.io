@@ -32,7 +32,7 @@ profiles:
   - category: "current"
     align: left
     image: Ricy.jpg
-    content: about_einstein.md
+    content: member_current.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>555 your office number</p>
@@ -41,7 +41,7 @@ profiles:
   - category: "alumni"
     align: left
     image: Ricy.jpg
-    content: about_einstein.md
+    content: alumni.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>555 your office number</p>
