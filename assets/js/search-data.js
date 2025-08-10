@@ -49,10 +49,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-we-are-opening",
+            },},{id: "news-we-are-opening",
           title: 'We are opening.',
           description: "",
           section: "News",},{id: "news-the-psr-website-start-construct",
