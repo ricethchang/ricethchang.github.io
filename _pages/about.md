@@ -33,12 +33,12 @@ Our newly established lab tackles the molecular complexity of plant-microbe-envi
 ### 🧬 Principal Investigator
 **Dr. Tao-Ho Chang (aka Dr. Rice)** - Molecular genetics and microbiology expert specializing in plant stress adaptation mechanisms.
   
-### 🔬 Three Core Research Areas
->**Biomarker Discovery Platforms** - *Arabidopsis*-based screening using transcriptomics to predict beneficial plant-microbe interactions.
+### 🔬 Three Core Research Themes
+**Biomarker Discovery Platforms** - *Arabidopsis*-based screening using transcriptomics to predict beneficial plant-microbe interactions.
 
->**Fungal Biocontrol Engineering** - CRISPR-mediated reprogramming of *Fusarium oxysporum* from pathogen to plant protector.
+**Fungal Biocontrol Engineering** - CRISPR-mediated reprogramming of *Fusarium oxysporum* from pathogen to plant protector.
 
->**Redox Network Analysis** - Decoding reactive oxygen/nitrogen species signaling in plant-microbe-stress interactions.
+**Redox Network Analysis** - Decoding reactive oxygen/nitrogen species signaling in plant-microbe-stress interactions.
   
 ### ⚗️ Key Research Tools
 Transcriptomics • CRISPR-Cas Systems • Real-time ROS Imaging • *Arabidopsis thaliana* • *Fusarium oxysporum*
