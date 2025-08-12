@@ -45,4 +45,4 @@ Transcriptomics • CRISPR-Cas Systems • Real-time ROS Imaging • *Arabidopsi
 
 ---
 
-**Building molecular foundations for stress-resilient crops to sustainably feed 10 billion people.** 🌾⚡
+**Building molecular foundations for stress-resilient crops to sustainably future.** 🌾⚡
