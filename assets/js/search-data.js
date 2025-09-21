@@ -102,6 +102,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "teaching-sample-course",
+          title: 'sample course',
+          description: "microbiology",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/course01/";
             },},{
         id: 'social-email',
         title: 'email',
