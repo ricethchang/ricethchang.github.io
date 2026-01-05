@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "books-the-godfather",
+        },{id: "post-happy-2026-may-the-resilience-always-with-us",
+        
+          title: "Happy 2026! May the resilience always with us!",
+        
+        description: "PSRLab PI post",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/new-post/";
+          
+        },
+      },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
