@@ -50,9 +50,9 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025-07-01/";
-            },},{id: "projects-novel-materials-for-plant-resilience-applying-the-gene-editing-technique-for-developing-biomaterials-for-stresses-tolerance-and-assessment-platform",
-          title: 'Novel materials for plant resilience, applying the gene-editing technique for developing biomaterials for...',
-          description: "The startup project for the lab",
+            },},{id: "projects-novel-materials-development-for-plant-stress-resilience",
+          title: 'Novel materials development for plant stress resilience',
+          description: "The startup project of PSR lab",
           section: "Projects",handler: () => {
               window.location.href = "/projects/PSRproject_01/";
             },},{
