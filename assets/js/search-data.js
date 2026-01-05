@@ -30,13 +30,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
-          },
         },{id: "nav-people",
           title: "people",
           description: "members of the lab or group",
@@ -57,11 +50,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025-07-01/";
-            },},{id: "teaching-sample-course",
-          title: 'sample course',
-          description: "microbiology",
-          section: "Teaching",handler: () => {
-              window.location.href = "/teaching/course01/";
+            },},{id: "projects-novel-materials-for-plant-resilience-applying-the-gene-editing-technique-for-developing-biomaterials-for-stresses-tolerance-and-assessment-platform",
+          title: 'Novel materials for plant resilience, applying the gene-editing technique for developing biomaterials for...',
+          description: "The startup project for the lab",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/PSRproject_01/";
             },},{
         id: 'social-email',
         title: 'email',
