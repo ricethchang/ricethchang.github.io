@@ -91,6 +91,7 @@ blog_name: PSR Lab digests # blog_name will be displayed in your blog page
 blog_description: Stronger plant, healthier world
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
+future: true # allow posts with future dates to be published
 
 # Pagination
 pagination:
