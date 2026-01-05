@@ -3,6 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: Program in Plant Health Care, Academy of Circular Economy, National Chung Hsing University
+logo: PSRLab.png
 
 profile:
   align: full
