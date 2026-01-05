@@ -5,7 +5,7 @@ permalink: /
 subtitle: Program in Plant Health Care, Academy of Circular Economy, National Chung Hsing University
 
 profile:
-  align: right
+  align: full
   image: lab_fig1.png
   image_circular: false # crops the image to make it circular
   more_info: >

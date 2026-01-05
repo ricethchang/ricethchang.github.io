@@ -15,9 +15,27 @@ layout: default
   </header>
 
   <article>
-    {% if page.profile %}
-      <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
-        {% if page.profile.image %}
+    {% if page.profile and page.profile.image %}
+      {% if page.profile.align == 'full' or page.profile.full_width %}
+        <!-- Full width profile image below subtitle -->
+        <div class="profile-full-width" style="width: 100%; margin: 20px 0;">
+          {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
+          {% if page.profile.image_circular %}
+            {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
+          {% else %}
+            {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
+          {% endif %}
+          {%
+            include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes="100vw" alt=page.profile.image
+            cache_bust=true
+          %}
+          {% if page.profile.more_info %}
+            <div class="more-info" style="text-align: center; margin-top: 10px;">{{ page.profile.more_info }}</div>
+          {% endif %}
+        </div>
+      {% else %}
+        <!-- Floating profile image (original behavior) -->
+        <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
           {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
           {% if page.profile.image_circular %}
             {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
@@ -31,11 +49,11 @@ layout: default
             include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image
             cache_bust=true
           %}
-        {% endif %}
-        {% if page.profile.more_info %}
-          <div class="more-info">{{ page.profile.more_info }}</div>
-        {% endif %}
-      </div>
+          {% if page.profile.more_info %}
+            <div class="more-info">{{ page.profile.more_info }}</div>
+          {% endif %}
+        </div>
+      {% endif %}
     {% endif %}
 
     <div class="clearfix">{{ content }}</div>
