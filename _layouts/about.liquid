@@ -6,7 +6,9 @@ layout: default
     <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
       {% if page.logo %}
         {% assign logo_path = page.logo | prepend: 'assets/img/' %}
-        <img src="{{ logo_path | relative_url }}" alt="Lab Logo" style="height: 60px; width: auto; object-fit: contain;">
+        <div style="background-color: white; padding: 8px; border-radius: 4px; display: inline-block;">
+          <img src="{{ logo_path | relative_url }}" alt="Lab Logo" style="height: 60px; width: auto; object-fit: contain; display: block;">
+        </div>
       {% endif %}
       <h1 class="post-title" style="margin: 0; flex: 1;">
         {% if site.title == 'blank' %}
@@ -17,10 +19,10 @@ layout: default
         {% endif %}
       </h1>
     </div>
-    <p class="desc">{{ page.subtitle }}</p>
+    <p class="desc" style="font-size: 16pt;">{{ page.subtitle }}</p>
   </header>
 
-  <article>
+  <article style="font-size: 16pt;">
     {% if page.profile and page.profile.image %}
       {% if page.profile.align == 'full' or page.profile.full_width %}
         <!-- Full width profile image below subtitle -->
