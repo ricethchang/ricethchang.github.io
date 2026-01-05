@@ -9,15 +9,15 @@ display categories: [Principal Investigator, Current Members, Alumni]
 
 # categorise people in my lab
 categories:
- - name: "Principal Investigator"
-   id: "pi"
-   description: "Lab principle investigator"
- - name: "Current Members"
-   id: "current"
-   description: "Lab students atm"
- - name: "Alumni"
-   id: "alumni"
-   description: "Friends from thereafter, graduated students, and staffs"
+  - name: "Principal Investigator"
+    id: "pi"
+    description: "Lab principle investigator"
+  - name: "Current Members"
+    id: "current"
+    description: "Lab students atm"
+  - name: "Alumni"
+    id: "alumni"
+    description: "Friends from thereafter, graduated students, and staffs"
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
@@ -46,5 +46,5 @@ profiles:
     more_info: >
       <p>555 your office number</p>
       <p>123 your address street</p>
-      <p>Your City, State 12345</p> 
+      <p>Your City, State 12345</p>
 ---

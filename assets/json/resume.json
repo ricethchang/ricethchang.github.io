@@ -30,7 +30,7 @@
       "startDate": "2022-07-30",
       "endDate": "present",
       "summary": "summary",
-      "highlights": ["Arabidopsis thaliana","Fusarium oxysporum","Gene editing","Molecular biology"]
+      "highlights": ["Arabidopsis thaliana", "Fusarium oxysporum", "Gene editing", "Molecular biology"]
     }
   ],
   "education": [
@@ -45,7 +45,7 @@
       "courses": ["Theory of Relativity"]
     }
   ],
-/* "awards": [
+  /* "awards": [
     {
       "title": "Nobel Prize in Physics",
       "date": "1921-11-01",
@@ -124,7 +124,7 @@
     }
   ],
   */
- /* "skills": [
+  /* "skills": [
     {
       "name": "Physics",
       "level": "Master",
@@ -156,24 +156,15 @@
     {
       "name": "Molecular plant science",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Plant stress resilience",
-        "Plant defence response",
-        "Plant redox regulation"
-      ]
+      "keywords": ["Plant stress resilience", "Plant defence response", "Plant redox regulation"]
     },
     {
       "name": "Plant pathology",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Beneficial microbe screening",
-        "Soil borne pathogens",
-        "Genome editing",
-        "Fusarium oxysporum"
-      ]
+      "keywords": ["Beneficial microbe screening", "Soil borne pathogens", "Genome editing", "Fusarium oxysporum"]
     }
   ],
-/*"references": [
+  /*"references": [
     {
       "name": "Professor John Doe",
       "icon": "fa-solid fa-laptop",
@@ -194,7 +185,7 @@
       "highlights": ["Gene editing", "Fusarium oxysporum", "Cross protection", "Virulence factors", "Plant stress resilience"],
       "startDate": "2023-04-01",
       "endDate": "2024-10-31",
-      "url":[]
+      "url": []
     },
     {
       "name": "Uncovering the relationship between beneficial microorganisms in redox homeostasis of plant roots and plant resilience improvement",
@@ -203,7 +194,7 @@
       "highlights": ["Plant resilience", "Redox homeostasis", "Abiotic stresses"],
       "startDate": "2024-08-01",
       "endDate": "2025-07-31",
-      "url":[]
+      "url": []
     },
     {
       "name": "Leveraging Arabidopsis resilience genes to develop a screening platform for microbes that enhanced plant stress tolerance",
@@ -212,7 +203,7 @@
       "highlights": ["Arabidopsis thaliana", "Resilience genes", "Beneficial microbes"],
       "startDate": "2022-01-01",
       "endDate": "2025-11-30",
-      "url":[]
+      "url": []
     }
   ]
 }

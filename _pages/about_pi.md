@@ -1,14 +1,21 @@
-### Principle Investigator ###
-# Tao-Ho Chang #
-### *PhD, Molecular Plant Science, University of Edinburgh* ###
+### Principle Investigator
+
+# Tao-Ho Chang
+
+### _PhD, Molecular Plant Science, University of Edinburgh_
+
 - (2022-present) Assistant Professor, Program in Plant Health Care, Academy of Circular Economy, National Chung Hisng University
 - (2017-2022) Postdoc, Department of Plant Pathology, National Chung Hsing University
-### **Research interests** ###
+
+### **Research interests**
+
 - Plant-Microbe-Stress interactions
-- Soil-borne pathogen *Fusarium oxysporum*
+- Soil-borne pathogen _Fusarium oxysporum_
 - Redox regulation in plant defence system
-### **Major research items** ###
-- *Arabidopsis thaliana*
-- *Fusarium oxysporum*
+
+### **Major research items**
+
+- _Arabidopsis thaliana_
+- _Fusarium oxysporum_
 - Genome editing technique
 - R program & Bioinformatic
