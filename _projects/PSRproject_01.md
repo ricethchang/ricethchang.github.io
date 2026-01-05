@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Novel materials for plant resilience, applying the gene-editing technique for developing biomaterials for stresses tolerance and assessment platform
-description: The startup project for the lab
+title: Novel materials development for plant stress resilience
+description: The startup project of PSR lab
 img: assets/img/12.jpg
 importance: 1
 category: Finished
