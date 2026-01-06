@@ -31,19 +31,27 @@ profiles:
       <p>email: thchang@nchu.edu.tw</p>
   - category: "current"
     align: left
-    image: Ricy.jpg
-    content: member_current.md
+    image: Fusarium.png
+    content: member_jeff_huang.md
     image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>[姓名]</p>
-      <p>email: [email@example.com]</p>
-  - category: "alumni"
+
+  - category: "current"
     align: left
-    image: Ricy.jpg
-    content: alumni.md
+    image: Fusarium.png
+    content: member_wen_ting_tseng.md
+    image_circular: false # crops the image to make it circular
+
+  - category: "alumni"
+    align: right
+    image: Fusarium.png
+    content: alumni_jun_ze_zheng.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+
+  - category: "alumni"
+    align: right
+    image: Arabidopsis.png
+    content: alumni_chia_cheng_hsieh.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
 ---

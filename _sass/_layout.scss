@@ -38,6 +38,26 @@ body.sticky-bottom-footer {
   }
 }
 
+.profile-section {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.profile-card {
+  text-align: left;
+}
+
+.profile-card .card-img-top {
+  object-fit: cover;
+  height: 260px;
+}
+
+@media (max-width: 576px) {
+  .profile-card .card-img-top {
+    height: 220px;
+  }
+}
+
 // TODO: redefine content layout.
 
 /******************************************************************************
