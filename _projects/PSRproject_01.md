@@ -2,13 +2,15 @@
 layout: page
 title: Novel materials development for plant stress resilience
 description: The startup project of PSR lab
-img: Project01.png
+img: assets/img/Project01.png
 importance: 1
 category: Finished
 published: true
 ---
 
 ## Project Overview
+
+{% include figure.liquid path="assets/img/Project01.png" title="Novel materials development for plant stress resilience" class="img-fluid rounded z-depth-1" %}
 
 This project addresses the critical need for sustainable alternatives to chemical fungicides in controlling _Fusarium oxysporum_, a devastating soil-borne pathogen causing crop wilt diseases. We establish an innovative CRISPR gene-editing platform to develop avirulent Fusarium strains as biological control agents through targeted modification of virulence factors. The research employs _Arabidopsis thaliana_ as a comprehensive analysis platform to evaluate gene-edited strain efficacy and identify plant stress resilience biomarkers. Through transcriptomic analysis and qPCR-based assessment systems, this integrated approach combines cutting-edge gene-editing technology with robust molecular frameworks, advancing sustainable agricultural practices whilst reducing chemical pesticide dependency.
 
