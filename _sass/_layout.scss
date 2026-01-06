@@ -61,8 +61,8 @@ body.sticky-bottom-footer {
 .profile-card .profile-image-wrapper {
   position: relative;
   width: 100%;
-  /* aspect-ratio 8:5 => height = 5/8 of width */
-  padding-top: calc(5 / 8 * 100%);
+  /* aspect-ratio 8:4 => height = 4/8 (1/2) of width, flatter card */
+  padding-top: calc(4 / 8 * 100%);
   overflow: hidden;
 }
 
