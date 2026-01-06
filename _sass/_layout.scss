@@ -52,9 +52,20 @@ body.sticky-bottom-footer {
   height: 260px;
 }
 
+.profile-card .card-img {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  max-height: 260px;
+}
+
 @media (max-width: 576px) {
   .profile-card .card-img-top {
     height: 220px;
+  }
+
+  .profile-card .card-img {
+    max-height: 220px;
   }
 }
 
