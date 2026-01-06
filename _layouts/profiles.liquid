@@ -53,20 +53,22 @@ layout: page
                       <div class="row no-gutters">
                         {%- if profile.image -%}
                           <div class="col-md-4">
-                            {%- assign profile_image_path = profile.image | prepend: 'assets/img/' -%}
-                            {%- if profile.image_circular -%}
-                              {%- assign profile_image_class = 'card-img img-fluid z-depth-1 rounded-circle' -%}
-                            {%- else -%}
-                              {%- assign profile_image_class = 'card-img img-fluid z-depth-1 rounded' -%}
-                            {%- endif -%}
-                            {%
-                              include figure.liquid
-                              loading="eager"
-                              path=profile_image_path
-                              sizes="(min-width: 768px) 200px, 50vw"
-                              alt=profile.image
-                              class=profile_image_class
-                            %}
+                            <div class="profile-image-wrapper">
+                              {%- assign profile_image_path = profile.image | prepend: 'assets/img/' -%}
+                              {%- if profile.image_circular -%}
+                                {%- assign profile_image_class = 'card-img img-fluid z-depth-1 rounded-circle' -%}
+                              {%- else -%}
+                                {%- assign profile_image_class = 'card-img img-fluid z-depth-1 rounded' -%}
+                              {%- endif -%}
+                              {%
+                                include figure.liquid
+                                loading="eager"
+                                path=profile_image_path
+                                sizes="(min-width: 768px) 200px, 50vw"
+                                alt=profile.image
+                                class=profile_image_class
+                              %}
+                            </div>
                           </div>
                         {%- endif -%}
 
