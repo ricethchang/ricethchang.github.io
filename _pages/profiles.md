@@ -35,9 +35,8 @@ profiles:
     content: member_current.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>[姓名]</p>
+      <p>email: [email@example.com]</p>
   - category: "alumni"
     align: left
     image: Ricy.jpg
