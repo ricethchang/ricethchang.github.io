@@ -5,7 +5,7 @@ layout: page
   <article>
     {%- if page.categories and page.profiles -%}
       {%- for category in page.categories -%}
-        {%- assign category_profiles = page.profiles | where: "category", category.id -%}
+        {%- assign category_profiles = page.profiles | where: 'category', category.id -%}
         {%- if category_profiles.size > 0 -%}
           <section class="profile-section">
             <h2 class="category-title">{{ category.name }}</h2>
@@ -55,7 +55,7 @@ layout: page
       {%- endfor -%}
     {%- elsif page.profiles -%}
       {%- comment -%}
-      Fallback: original single-column layout if categories are not defined.
+        Fallback: original single-column layout if categories are not defined.
       {%- endcomment -%}
       {%- for profile in page.profiles -%}
         <hr>
