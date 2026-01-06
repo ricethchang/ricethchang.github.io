@@ -1,8 +1,6 @@
-# Lab Alumni
-
 ## Jun-Ze Zheng
 
-### _Master graduate_
+### **Master graduate**
 
 ### Thesis title
 

@@ -1,10 +1,8 @@
-# Current Member
-
 ## Jeff Huang
 
-### _Senior master student_
+### **Senior master student**
 
-### **Major research items**
+### _Major research items_
 
 - Fusarium gene editing
 - Plant-Host Interactions

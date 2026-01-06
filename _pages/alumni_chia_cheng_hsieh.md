@@ -1,8 +1,6 @@
-# Lab Alumni
-
 ## Chia-Cheng Hsieh
 
-### _Master graduate_
+### **Master graduate**
 
 ### Thesis title
 
@@ -10,6 +8,6 @@ Leveraging Arabidopsis Resilience Genes to Develop a Screening Platform for Micr
 
 ### **Major research items**
 
-- Arabidopsis thaliana
+- _Arabidopsis thaliana_
 - Beneficial microbes development
 - Molecular biology

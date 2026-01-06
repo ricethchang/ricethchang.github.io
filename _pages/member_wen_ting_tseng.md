@@ -1,10 +1,8 @@
-# Current Member
-
 ## Wen-Ting Tseng
 
-### _Junior master student_
+### **Junior master student**
 
-### **Major research items**
+### _Major research items_
 
 - Fusarium gene editing
 - Plant-Host Interactions
