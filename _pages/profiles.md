@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
-description: members of the lab or group
+title: Members
+description: The wee PSRLab mates
 nav: true
 nav_order: 7
 display categories: [Principal Investigator, Current Members, Alumni]
