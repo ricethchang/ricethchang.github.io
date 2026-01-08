@@ -3,7 +3,7 @@ layout: page
 title: Novel materials development for plant stress resilience
 description: The startup project of PSR lab
 img: assets/img/Project01.png
-importance: 1
+importance: 2
 category: Finished
 published: true
 ---
