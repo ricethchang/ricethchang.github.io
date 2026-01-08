@@ -66,6 +66,11 @@ ninja.data = [{
           description: "The startup project of PSR lab",
           section: "Projects",handler: () => {
               window.location.href = "/projects/PSRproject_01/";
+            },},{id: "projects-uncovering-the-redox-homeostasis-of-plant-microbes-stress-interactions",
+          title: 'Uncovering the redox homeostasis of plant-microbes-stress interactions',
+          description: "Bring the balance of plant health",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/PSRproject_02/";
             },},{
         id: 'social-email',
         title: 'email',
