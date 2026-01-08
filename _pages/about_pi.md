@@ -1,7 +1,6 @@
-
 #### Tao-Ho Chang
 
-##### _PhD, Molecular Plant Science, University of Edinburgh_
+##### **PhD, Molecular Plant Science, University of Edinburgh**
 
 - 2022-present Assistant Professor, Program in Plant Health Care, Academy of Circular Economy, National Chung Hisng University
 - 2017-2022 Postdoc, Department of Plant Pathology, National Chung Hsing University
