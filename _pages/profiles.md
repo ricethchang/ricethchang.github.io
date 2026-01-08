@@ -9,9 +9,8 @@ display categories: [Principal Investigator, Current Members, Alumni]
 
 # categorise people in my lab
 categories:
-  - name: "Principal Investigator"
+  - name: "🧬Principal Investigator🔬"
     id: "pi"
-    description: "Lab principle investigator"
   - name: "Current Members"
     id: "current"
     description: "Lab students atm"

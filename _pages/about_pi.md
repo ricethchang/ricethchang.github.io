@@ -1,4 +1,3 @@
-### Principle Investigator
 
 #### Tao-Ho Chang
 

@@ -25,15 +25,15 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-## Uncovering the puzzles of Plant-Microbe-Environment Networks 🌱🔬
+### Uncovering the puzzles of Plant-Microbe-Environment Networks 🌱🔬
 
 Our newly established lab tackles the molecular complexity of plant-microbe-environment interactions to develop sustainable agricultural solutions.
 
-### 🧬 Principal Investigator
+#### 🧬 Principal Investigator
 
 **Dr. Tao-Ho Chang (aka Dr. Rice)** - Molecular genetics and microbiology expert specializing in plant stress adaptation mechanisms.
 
-### 🔬 Three Core Research Themes
+#### 🔬 Three Core Research Themes
 
 **Biomarker Discovery Platforms** - _Arabidopsis_-based screening using transcriptomics to predict beneficial plant-microbe interactions.
 
@@ -41,7 +41,7 @@ Our newly established lab tackles the molecular complexity of plant-microbe-envi
 
 **Redox Network Analysis** - Decoding reactive oxygen/nitrogen species signaling in plant-microbe-stress interactions.
 
-### ⚗️ Key Research Tools
+#### ⚗️ Key Research Tools
 
 Transcriptomics • CRISPR-Cas Systems • Real-time ROS Imaging • _Arabidopsis thaliana_ • _Fusarium oxysporum_
 
