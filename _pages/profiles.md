@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /people/
-title: Members
+title: members
 description: The wee PSRLab mates
 nav: true
 nav_order: 7
