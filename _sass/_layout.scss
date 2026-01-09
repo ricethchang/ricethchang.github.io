@@ -90,4 +90,12 @@ body.sticky-bottom-footer {
 * Projects
 *****************************************************************************/
 
+// Project page images - reduce size to 50%
+.post article figure img,
+.post article .img-fluid {
+  max-width: 50% !important;
+  margin: 0 auto;
+  display: block;
+}
+
 // TODO: redefine projects layout.
