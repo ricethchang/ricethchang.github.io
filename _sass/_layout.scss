@@ -31,10 +31,19 @@ body.sticky-bottom-footer {
   max-width: $max-content-width;
 }
 
-// Profile
+// Profile - display images at original size
 .profile {
+  figure,
+  picture,
   img {
-    width: 100%;
+    width: auto !important;
+    max-width: none !important;
+    height: auto;
+  }
+
+  .img-fluid {
+    max-width: none !important;
+    width: auto !important;
   }
 }
 
@@ -47,7 +56,7 @@ body.sticky-bottom-footer {
     max-width: none !important;
     height: auto;
   }
-  
+
   .img-fluid {
     max-width: none !important;
     width: auto !important;
@@ -78,10 +87,27 @@ body.sticky-bottom-footer {
   width: 100%;
 }
 
-.profile-card .profile-image-wrapper .card-img {
-  width: 100%;
-  object-fit: contain;
-  background-color: var(--global-bg-color);
+.profile-card .profile-image-wrapper {
+  .card-img {
+    width: auto !important;
+    max-width: none !important;
+    height: auto;
+    object-fit: contain;
+    background-color: var(--global-bg-color);
+  }
+
+  figure,
+  picture,
+  img {
+    width: auto !important;
+    max-width: none !important;
+    height: auto;
+  }
+
+  .img-fluid {
+    max-width: none !important;
+    width: auto !important;
+  }
 }
 
 @media (max-width: 576px) {
@@ -120,8 +146,19 @@ body.sticky-bottom-footer {
   }
 }
 
+// Ensure profile images maintain original size (higher specificity)
+.profile-section {
+  .profile img,
+  .profile .img-fluid,
+  .profile-card img,
+  .profile-card .img-fluid {
+    max-width: none !important;
+    width: auto !important;
+  }
+}
+
 // Project detail page images - reduce size to 50%
-// Only apply to project detail pages (not in .projects container)
+// Only apply to project detail pages (not in .projects container or .profile sections)
 .post article figure img:not(.card-img-top) {
   max-width: 50% !important;
   margin: 0 auto;
