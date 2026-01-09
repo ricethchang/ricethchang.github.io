@@ -47,19 +47,23 @@ body.sticky-bottom-footer {
   }
 }
 
-// Profile full-width image - display at original size
+// Profile full-width image - display at content width (responsive)
 .profile-full-width {
   figure,
-  picture,
+  picture {
+    width: 100%;
+    max-width: 100%;
+  }
+
   img {
-    width: auto !important;
-    max-width: none !important;
+    width: 100% !important;
+    max-width: 100% !important;
     height: auto;
   }
 
   .img-fluid {
-    max-width: none !important;
-    width: auto !important;
+    max-width: 100% !important;
+    width: 100% !important;
   }
 }
 
@@ -212,12 +216,23 @@ body.sticky-bottom-footer {
   display: block;
 }
 
-// Override: Ensure about, projects list, and profiles pages maintain original size
+// Override: Ensure about page images match content width, projects list and profiles pages maintain original size
 // These rules must come last with higher specificity to override the 50% rule above
 .post article .profile-full-width figure img,
 .post article .profile-full-width picture img,
 .post article .profile-full-width img,
-.post article .profile-full-width .img-fluid,
+.post article .profile-full-width .img-fluid {
+  max-width: 100% !important;
+  width: 100% !important;
+  margin: 0 !important;
+  display: block !important;
+}
+
+.post article .projects figure img,
+.post article .projects picture img,
+.post article .projects img,
+.post article .projects .img-fluid,
+.post article .projects .card-img-top,
 .post article .projects figure img,
 .post article .projects picture img,
 .post article .projects img,
