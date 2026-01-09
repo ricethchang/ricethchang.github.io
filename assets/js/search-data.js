@@ -72,7 +72,7 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/PSRproject_02/";
             },},{id: "projects-fusarium-oxysporum-crispr-gene-editing-as-novel-materials-for-plant-resilience",
-          title: '_Fusarium oxysporum_ CRISPR gene editing as novel materials for plant resilience',
+          title: 'Fusarium oxysporum CRISPR gene editing as novel materials for plant resilience',
           description: "How to make virulent strains avirulence",
           section: "Projects",handler: () => {
               window.location.href = "/projects/PSRproject_03/";
