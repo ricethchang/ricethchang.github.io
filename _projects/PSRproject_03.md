@@ -1,6 +1,6 @@
 ---
 layout: page
-title: _Fusarium oxysporum_ CRISPR gene editing as novel materials for plant resilience
+title: <em>Fusarium oxysporum</em> CRISPR gene editing as novel materials for plant resilience
 description: How to make virulent strains avirulence
 img: assets/img/Project03.png
 importance: 2
