@@ -30,13 +30,13 @@ profiles:
       <p>email: thchang@nchu.edu.tw</p>
   - category: "current"
     align: left
-    image: Fusarium.png
+    image: Member_SCHuang.png
     content: member_jeff_huang.md
     image_circular: false # crops the image to make it circular
 
   - category: "current"
     align: left
-    image: Fusarium.png
+    image: Member_WTTseng.jpg
     content: member_wen_ting_tseng.md
     image_circular: false # crops the image to make it circular
 
