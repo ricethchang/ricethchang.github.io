@@ -90,36 +90,45 @@ body.sticky-bottom-footer {
 }
 
 .profile-card .profile-image-wrapper {
-  width: auto !important;
-  max-width: none !important;
+  width: 100% !important;
+  height: 200px !important;
+  overflow: hidden !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  background-color: var(--global-bg-color);
 
   .card-img {
-    width: auto !important;
-    max-width: none !important;
-    height: auto !important;
-    object-fit: contain;
-    background-color: var(--global-bg-color);
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: cover !important;
+    object-position: center !important;
   }
 
   figure {
-    width: auto !important;
-    max-width: none !important;
+    width: 100% !important;
+    height: 100% !important;
+    margin: 0 !important;
   }
 
   picture {
-    width: auto !important;
-    max-width: none !important;
+    width: 100% !important;
+    height: 100% !important;
+    display: block !important;
   }
 
   img {
-    width: auto !important;
-    max-width: none !important;
-    height: auto !important;
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: cover !important;
+    object-position: center !important;
   }
 
   .img-fluid {
-    max-width: none !important;
-    width: auto !important;
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: cover !important;
+    object-position: center !important;
   }
 }
 
@@ -135,8 +144,8 @@ body.sticky-bottom-footer {
 
   .profile-section {
     .profile-card .profile-image-wrapper {
-      width: auto !important;
-      max-width: none !important;
+      width: 100% !important;
+      height: 180px !important;
     }
   }
 }
