@@ -42,14 +42,14 @@ profiles:
 
   - category: "alumni"
     align: right
-    image: Fusarium.png
+    image: Member_JZZheng.png
     content: alumni_jun_ze_zheng.md
     image_circular: false # crops the image to make it circular
     more_info: >
 
   - category: "alumni"
     align: right
-    image: Arabidopsis.png
+    image: Member_CCHsieh.png
     content: alumni_chia_cheng_hsieh.md
     image_circular: false # crops the image to make it circular
     more_info: >
