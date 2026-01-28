@@ -1,4 +1,4 @@
-#### Jeff Huang
+#### Szu-Chieh Huang
 
 ##### **Senior master student**
 
