@@ -31,7 +31,7 @@ ninja.data = [{
             window.location.href = "/projects/";
           },
         },{id: "nav-members",
-          title: "members",
+          title: "MEMBERS",
           description: "The wee PSRLab mates",
           section: "Navigation",
           handler: () => {
