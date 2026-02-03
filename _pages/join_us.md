@@ -8,13 +8,11 @@ nav_order: 7
 _styles: |
   .post-header .post-title,
   .post-header .post-description { text-align: center; }
-  .post .recruit-figure figure,
-  .post .recruit-figure figure img { width: 100%; max-width: 100%; }
 ---
 
 **We are recruiting! Join the Plant Stress Resilience Lab!**
 
-<div class="recruit-figure">{% include figure.liquid path="assets/img/Recruit.png" class="img-fluid rounded z-depth-1" %}</div>
+<div class="profile-full-width">{% include figure.liquid path="assets/img/Recruit.png" class="img-fluid rounded z-depth-1" %}</div>
 
 Join us to study the tripartite gossiping within **plants**-**microbes**-**stress** through gene expression, gene editing and simple plants.
 
