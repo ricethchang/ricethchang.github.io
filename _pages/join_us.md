@@ -2,7 +2,7 @@
 layout: page
 permalink: /join_us/
 title: JOIN US
-description: 
+description:
 nav: true
 nav_order: 7
 _styles: |
@@ -18,13 +18,11 @@ Join us to study the tripartite gossiping within **plants**-**microbes**-**stres
 
 The PSR Lab is based in the Program in Plant Health Care, Academy of Circular Economy at National Chung Hsing University.
 
-
-
 ---
 
 ### Postgraduate students
 
-Our lab aims to motivate student to become an independent scientist as well as a creative thinker. In the lab you can gain hands-on experience in **molecular genetics**, **transcriptomics**, **plant–microbe assays**, **CRISPR/gene editing**, and **redox/ROS imaging**, among other techniques. We work with *Arabidopsis thaliana* and *Fusarium oxysporum* in a collaborative setting with international connections. Projects centre on plant–microbe interactions and biocontrol. If you are interested in plant stress or microbial engineering, please contact me and we could have wee chat about your ideas.
+Our lab aims to motivate student to become an independent scientist as well as a creative thinker. In the lab you can gain hands-on experience in **molecular genetics**, **transcriptomics**, **plant–microbe assays**, **CRISPR/gene editing**, and **redox/ROS imaging**, among other techniques. We work with _Arabidopsis thaliana_ and _Fusarium oxysporum_ in a collaborative setting with international connections. Projects centre on plant–microbe interactions and biocontrol. If you are interested in plant stress or microbial engineering, please contact me and we could have wee chat about your ideas.
 
 ### Undergraduate students
 
@@ -35,11 +33,15 @@ We welcome **summer and winter interns** and undergraduates who are interested i
 Positions may require your own project funding. For postdocs, our lab currently has a 3-year NSTC-funded project—we welcome discussions about potential support from this grant. You can also contact PI to work with you on external grant applications.
 
 ---
+
 ## Lab Culture
 
 We value curiosity, teamwork, and responsible (honest, reproducible) research. Passionate about plant stress, microbes, or sustainable agriculture? Get in touch.
 
 ## Contact
 
-**Contact:** Dr. Tao-Ho Chang (Dr. Rice) — thchang@nchu.edu.tw 
+**Contact:** Dr. Tao-Ho Chang (Dr. Rice)
+
+**E-mail:** thchang@nchu.edu.tw
+
 **Affiliation:** Program in Plant Health Care, Academy of Circular Economy, National Chung Hsing University
