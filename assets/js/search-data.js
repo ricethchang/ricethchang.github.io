@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
+        },{id: "nav-join-us",
+          title: "JOIN US",
+          description: "Join the Plant Stress Resilience Lab — we welcome motivated students and researchers.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/join_us/";
+          },
         },{id: "nav-members",
           title: "MEMBERS",
           description: "The wee PSRLab mates",

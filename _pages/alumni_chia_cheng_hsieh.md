@@ -2,11 +2,11 @@
 
 ##### **Master graduate**
 
-##### Thesis title
+##### _Thesis_
 
 Leveraging Arabidopsis Resilience Genes to Develop a Screening Platform for Microbes that Enhance Plant Drought Tolerance
 
-##### **Major research items**
+##### _Major research_
 
 - _Arabidopsis thaliana_
 - Beneficial microbes development

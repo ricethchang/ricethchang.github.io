@@ -2,11 +2,11 @@
 
 ##### **Master graduate**
 
-##### Thesis title
+##### _Thesis title_
 
 The Establishment of a CRISPR/Cpf1 Ribonucleoprotein Delivery System for Precision Genome Editing in _Fusarium oxysporum_
 
-##### **Major research items**
+##### _Major research items_
 
 - Fusarium gene editing
 - Plant-Host Interactions
