@@ -2,14 +2,19 @@
 layout: page
 permalink: /join_us/
 title: JOIN US
-description: Join the Plant Stress Resilience Lab — we welcome motivated students and researchers.
+description: 
 nav: true
-nav_order: 6
+nav_order: 7
+_styles: |
+  .post-header .post-title,
+  .post-header .post-description { text-align: center; }
+  .post .recruit-figure figure,
+  .post .recruit-figure figure img { width: 100%; max-width: 100%; }
 ---
 
 **We are recruiting! Join the Plant Stress Resilience Lab!**
 
-{% include figure.liquid path="assets/img/Recruit.png" class="img-fluid rounded z-depth-1" %}
+<div class="recruit-figure">{% include figure.liquid path="assets/img/Recruit.png" class="img-fluid rounded z-depth-1" %}</div>
 
 Join us to study the tripartite gossiping within **plants**-**microbes**-**stress** through gene expression, gene editing and simple plants.
 
@@ -29,19 +34,14 @@ We welcome **summer and winter interns** and undergraduates who are interested i
 
 ### Postdoctoral fellow
 
-Positions may require your own project funding. For postdocs, our lab currently has a 3-year NSTC-funded project—we welcome discussions about potential support from this grant. We are also glad to work with you on external grant applications (e.g., NSTC/MOST postdoc fellowships, project grants, international programs) to help you secure independent funding and strengthen your research career.
+Positions may require your own project funding. For postdocs, our lab currently has a 3-year NSTC-funded project—we welcome discussions about potential support from this grant. You can also contact PI to work with you on external grant applications.
 
 ---
-
-## Please contact me
-
-**Contact:** Dr. Tao-Ho Chang (Dr. Rice) — thchang@nchu.edu.tw  
-**Affiliation:** Program in Plant Health Care, Academy of Circular Economy, National Chung Hsing University
-
----
-
 ## Lab Culture
 
 We value curiosity, teamwork, and responsible (honest, reproducible) research. Passionate about plant stress, microbes, or sustainable agriculture? Get in touch.
 
----
+## Contact
+
+**Contact:** Dr. Tao-Ho Chang (Dr. Rice) — thchang@nchu.edu.tw 
+**Affiliation:** Program in Plant Health Care, Academy of Circular Economy, National Chung Hsing University
