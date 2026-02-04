@@ -7,3 +7,7 @@
 
 "Vision":
   color: "#009f36"
+
+"bioRxiv":
+  url: https://www.biorxiv.org
+  color: "#43A047"
