@@ -178,11 +178,13 @@
     {% endif %}
     {% assign entrytype_text = entrytype | strip_html | strip %}
     {% capture periodical %}{{ entrytype }}{% if entrytype_text != "" and entryyear != "" %}, {% endif %}{{ entrymonth }}{{ entryyear }}{% endcapture %}
+    {% if entry.note and entry.note != blank %}
+      {% capture periodical %}{{ periodical }} — {{ entry.note | strip }}{% endcapture %}
+    {% elsif entry.abbr == 'bioRxiv' or entry.journal == 'bioRxiv' %}
+      {% capture periodical %}{{ periodical }} — Preprint{% endcapture %}
+    {% endif %}
     <div class="periodical">
       {{ periodical | strip }}
-    </div>
-    <div class="periodical">
-      {{ entry.note | strip }}
     </div>
 
     <!-- Links/Buttons -->
