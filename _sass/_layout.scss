@@ -31,6 +31,13 @@ body.sticky-bottom-footer {
   max-width: $max-content-width;
 }
 
+// Widen container for profiles/people page to reduce side margins
+.container.layout-profiles {
+  max-width: 1600px;
+  padding-left: 0.75rem;
+  padding-right: 0.75rem;
+}
+
 // Profile - scale images to fit container (responsive)
 .profile {
   figure,
@@ -164,14 +171,26 @@ body.sticky-bottom-footer {
     width: 100% !important;
     height: 100% !important;
     min-height: 220px;
+    margin: 0 !important;
+    padding: 0 !important;
 
     figure,
-    picture,
+    picture {
+      width: 100% !important;
+      height: 100% !important;
+      margin: 0 !important;
+      padding: 0 !important;
+      display: block !important;
+    }
+
     img {
       width: 100% !important;
       height: 100% !important;
       object-fit: cover !important;
       object-position: center !important;
+      display: block !important;
+      margin: 0 !important;
+      padding: 0 !important;
     }
 
     .profile-name-overlay {
