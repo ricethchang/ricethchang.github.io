@@ -1,5 +1,3 @@
-#### Jun-Ze Zheng
-
 ##### **Master graduate**
 
 ##### _Thesis title_

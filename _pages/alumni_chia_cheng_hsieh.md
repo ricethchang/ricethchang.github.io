@@ -1,5 +1,3 @@
-#### Chia-Cheng Hsieh
-
 ##### **Master graduate**
 
 ##### _Thesis_
