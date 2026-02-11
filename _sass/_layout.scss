@@ -150,6 +150,80 @@ body.sticky-bottom-footer {
   }
 }
 
+// Postcard-style profile cards (Current Members, Alumni)
+.profile-card-postcard {
+  overflow: hidden;
+
+  .profile-image-with-name {
+    position: relative;
+    width: 100% !important;
+    height: 220px !important;
+
+    .card-img-top {
+      width: 100% !important;
+      height: 100% !important;
+      object-fit: cover !important;
+      object-position: center !important;
+    }
+
+    .profile-name-overlay {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      padding: 0.75rem 1rem;
+      background: linear-gradient(to top, rgba(0, 0, 0, 0.85), transparent);
+      color: white;
+      font-size: 1.15rem;
+      font-weight: 600;
+      text-align: left;
+    }
+  }
+
+  .profile-postcard-body {
+    padding: 1rem 1.25rem;
+  }
+
+  .profile-postcard-content {
+    padding: 0.75rem 1rem;
+    background: var(--global-bg-color);
+    border: 1px solid var(--global-divider-color);
+    border-radius: 4px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
+    font-size: 0.95rem;
+    line-height: 1.5;
+
+    h4, h5, h6 {
+      margin-top: 0.5rem;
+      margin-bottom: 0.35rem;
+      font-size: inherit;
+    }
+
+    h4:first-child, h5:first-child, h6:first-child {
+      margin-top: 0;
+    }
+
+    ul {
+      margin-bottom: 0;
+      padding-left: 1.25rem;
+    }
+
+    .profile-postcard-name {
+      font-size: 1.1rem;
+      font-weight: 600;
+      margin-bottom: 0.5rem;
+      padding-bottom: 0.5rem;
+      border-bottom: 1px solid var(--global-divider-color);
+    }
+  }
+}
+
+@media (max-width: 576px) {
+  .profile-card-postcard .profile-image-with-name {
+    height: 200px !important;
+  }
+}
+
 // TODO: redefine content layout.
 
 /******************************************************************************

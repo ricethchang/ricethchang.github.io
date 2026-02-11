@@ -1,5 +1,3 @@
-#### Wen-Ting Zeng
-
 ##### **Junior master student**
 
 ##### _Major research_

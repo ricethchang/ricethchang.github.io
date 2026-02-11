@@ -1,5 +1,3 @@
-#### Szu-Chieh Huang
-
 ##### **Senior master student**
 
 ##### _Major research_
