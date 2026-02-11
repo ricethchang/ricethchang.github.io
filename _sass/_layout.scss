@@ -31,13 +31,6 @@ body.sticky-bottom-footer {
   max-width: $max-content-width;
 }
 
-// Widen container for profiles/people page to reduce side margins
-.container.layout-profiles {
-  max-width: 1600px;
-  padding-left: 0.75rem;
-  padding-right: 0.75rem;
-}
-
 // Profile - scale images to fit container (responsive)
 .profile {
   figure,
@@ -338,7 +331,7 @@ body.sticky-bottom-footer {
 .post article .projects img,
 .post article .projects .img-fluid,
 .post article .projects .card-img-top,
-// PI block only - scale to fit container; cards use .profile-image-wrapper
+// PI block - scale to fit container (override the 50% project rule)
 .post article .profile-section .profile figure img,
 .post article .profile-section .profile picture img,
 .post article .profile-section .profile img,
@@ -350,6 +343,17 @@ body.sticky-bottom-footer {
   max-width: 100% !important;
   width: 100% !important;
   height: auto !important;
+  margin: 0 !important;
+  display: block !important;
+}
+
+// Profile cards - override 50% rule so images fill the column (keep height from .profile-image-with-name)
+.post article .profile-section .profile-card figure img,
+.post article .profile-section .profile-card picture img,
+.post article .profile-section .profile-card img,
+.post article .profile-section .profile-card .img-fluid {
+  max-width: 100% !important;
+  width: 100% !important;
   margin: 0 !important;
   display: block !important;
 }
