@@ -31,19 +31,19 @@ body.sticky-bottom-footer {
   max-width: $max-content-width;
 }
 
-// Profile - display images at original size
+// Profile - scale images to fit container (responsive)
 .profile {
   figure,
   picture,
   img {
-    width: auto !important;
-    max-width: none !important;
-    height: auto;
+    max-width: 100% !important;
+    width: 100% !important;
+    height: auto !important;
   }
 
   .img-fluid {
-    max-width: none !important;
-    width: auto !important;
+    max-width: 100% !important;
+    width: 100% !important;
   }
 }
 
@@ -176,39 +176,9 @@ body.sticky-bottom-footer {
   }
 }
 
-// Ensure profile images maintain original size (higher specificity)
+// Profile section - PI and cards both scale responsively
 .profile-section {
-  .profile {
-    figure,
-    picture,
-    img {
-      width: auto !important;
-      max-width: none !important;
-      height: auto !important;
-    }
-
-    .img-fluid {
-      max-width: none !important;
-      width: auto !important;
-    }
-  }
-
-  .profile-card {
-    .profile-image-wrapper {
-      width: auto !important;
-      max-width: none !important;
-    }
-
-    figure,
-    picture,
-    img,
-    .card-img,
-    .img-fluid {
-      width: auto !important;
-      max-width: none !important;
-      height: auto !important;
-    }
-  }
+  // Profile cards (Current Members, Alumni) - uniform avatar sizing via .profile-image-wrapper
 }
 
 // Project detail page images - reduce size to 50%
@@ -247,16 +217,18 @@ body.sticky-bottom-footer {
 .post article .projects img,
 .post article .projects .img-fluid,
 .post article .projects .card-img-top,
-.post article .profile-section figure img,
-.post article .profile-section picture img,
-.post article .profile-section img,
-.post article .profile-section .img-fluid,
+// PI block only - scale to fit container; cards use .profile-image-wrapper
+.post article .profile-section .profile figure img,
+.post article .profile-section .profile picture img,
+.post article .profile-section .profile img,
+.post article .profile-section .profile .img-fluid,
 .post article .profile figure img,
 .post article .profile picture img,
 .post article .profile img,
 .post article .profile .img-fluid {
-  max-width: none !important;
-  width: auto !important;
+  max-width: 100% !important;
+  width: 100% !important;
+  height: auto !important;
   margin: 0 !important;
   display: block !important;
 }
