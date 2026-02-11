@@ -14,7 +14,7 @@ categories:
   - name: "Current Members"
     id: "current"
     description: "Lab students atm"
-  - name: "Alumni"
+  - name: "PSRLab Pals"
     id: "alumni"
     description: "Friends from thereafter, graduated students, and staffs"
 profiles:
