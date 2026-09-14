@@ -11,3 +11,11 @@
 "bioRxiv":
   url: https://www.biorxiv.org
   color: "#43A047"
+
+"iScience":
+  url: https://www.cell.com/iscience/home
+  color: "#00A3A1"
+
+"BotStud":
+  url: https://link.springer.com/journal/40529
+  color: "#2E7D32"
