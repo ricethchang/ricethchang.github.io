@@ -30,17 +30,18 @@ profiles:
       <p>email: thchang@nchu.edu.tw</p>
   - category: "current"
     align: left
-    name: "Szu-Chieh Huang"
-    image: Member_SCHuang.png
-    content: member_jeff_huang.md
-    image_circular: false # crops the image to make it circular
-
-  - category: "current"
-    align: left
     name: "Wen-Ting Zeng"
     image: Member_WTTseng.jpg
     content: member_wen_ting_tseng.md
     image_circular: false # crops the image to make it circular
+
+  - category: "alumni"
+    align: right
+    name: "Szu-Chieh Huang"
+    image: Member_SCHuang.png
+    content: alumni_szu_chieh_huang.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
 
   - category: "alumni"
     align: right
