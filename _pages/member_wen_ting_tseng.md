@@ -1,4 +1,4 @@
-##### **Junior master student**
+##### **Senior master student**
 
 ##### _Major research_
 
